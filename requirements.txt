@@ -1,0 +1,6 @@
+pycaret[full]
+jupyterlab
+fastapi
+uvicorn
+pandas
+streamlit
